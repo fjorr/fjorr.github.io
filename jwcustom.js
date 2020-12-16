@@ -12,5 +12,5 @@
           caption = (caption == 0 ) ? 1 : 0;
           jwplayer().setCurrentCaptions(caption);
         });
-        
+
     });
