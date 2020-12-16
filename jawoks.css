@@ -65,8 +65,9 @@
 }
 
 .jw-state-idle .jw-title-secondary {
-  background-color: rgba(17,17,17,0.8);
+  background-color: blue;
   border-radius: 20px;
+  width: 80px;
   margin:0px auto;
   left:0;
   right:0;
