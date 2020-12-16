@@ -16,18 +16,21 @@
 
 
 
-/*before pressing play*/
-.jw-state-idle .jw-wrapper .jw-controls-backdrop {
-  background: none !important;
-}
+
+
+
+  /*before pressing play*/
+  .jw-state-idle .jw-wrapper .jw-controls-backdrop {
+    background: none !important;
+  }
 
 
 /*controls gradient background*/
-.jw-state-playing .jw-wrapper .jw-controls-backdrop,
-.jw-state-paused .jw-wrapper .jw-controls-backdrop,
-.jw-state-complete .jw-wrapper .jw-controls-backdrop {
-  display: none;
-}
+  .jw-state-playing .jw-wrapper .jw-controls-backdrop,
+  .jw-state-paused .jw-wrapper .jw-controls-backdrop,
+  .jw-state-complete .jw-wrapper .jw-controls-backdrop {
+    display: none;
+  }
 
 
 .jw-display-controls .jw-display-icon-container {
@@ -52,8 +55,6 @@
 	height: 50px;
 }*/
 
-.jw-rightclick { display: none !important; }
-
 
 .jw-state-idle .jw-title {
   height: 100%;
@@ -75,7 +76,7 @@
 .jw-title-secondary {
   opacity: 1;
   color: #F2F2F2;
-  top: 60%;
+  top: calc(50% + 80px);
   padding: 10px 15px 8px 15px !important;
   position: absolute;
   text-align: center;
