@@ -76,7 +76,7 @@
 .jw-title-secondary {
   opacity: 1;
   color: #F2F2F2;
-  top: calc(50% + 80px);
+  top: calc(50% + 20px);
   padding: 10px 10px 8px 10px !important;
   position: absolute;
   text-align: center;
