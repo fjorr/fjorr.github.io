@@ -111,8 +111,6 @@
  .jw-controlbar {
     flex-direction: row !important;
     margin-bottom: 20px !important;
-    justify-content: center !important;
-	 align-items: center !important;
   }
 
 
@@ -209,7 +207,7 @@
 
   .jw-button-container {
     position: relative;
-    max-width: 90%;
+    max-width: 100%;
   }
 
 
