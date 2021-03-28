@@ -1,4 +1,4 @@
-<!-- Jawox Player script -->
+<!-- Fjorr Player script -->
 
 <link rel="stylesheet" href="https://use.typekit.net/xep6riv.css">
 
@@ -303,7 +303,7 @@
     display: none;
   }
   .jw-button-container .jw-svg-icon-play {
-    background-image: url('https://uploads-ssl.webflow.com/5d3929077546595ce9073469/5fb883d4ff41de9155868ede_jawoks_play.svg');
+    background-image: url('https://https://uploads-ssl.webflow.com/604abc1e7754c6d48f4250c1/60609e1fe1af7a28965a48da_fjorr_play.svg');
     background-size: 15px 15px !important;
     background-position: center;
     background-repeat: no-repeat;
@@ -314,7 +314,7 @@
   }
 
   .jw-icon-display .jw-svg-icon-play {
-    background-image: url('https://uploads-ssl.webflow.com/5d3929077546595ce9073469/5fb883d4ff41de9155868ede_jawoks_play.svg');
+    background-image: url('https://uploads-ssl.webflow.com/604abc1e7754c6d48f4250c1/60609e1fe1af7a28965a48da_fjorr_play.svg');
     background-size: 30px 30px !important;
     background-position: center;
     background-repeat: no-repeat;
@@ -350,7 +350,7 @@
 } */
 
   .jw-icon-display .jw-svg-icon-replay {
-    background-image: url('https://uploads-ssl.webflow.com/5d3929077546595ce9073469/5fb88a6a2dc21aa8ec1b772d_jawoks_replay.svg');
+    background-image: url('https://uploads-ssl.webflow.com/604abc1e7754c6d48f4250c1/60609e1f8c5edc152e93522a_fjorr_replay.svg');
     background-size: 40px 40px !important;
     background-position: center;
     background-repeat: no-repeat;
@@ -361,7 +361,7 @@
   }
 
   .jw-svg-icon-pause {
-    background-image: url('https://uploads-ssl.webflow.com/5d3929077546595ce9073469/5d5d86f83e9e5a1bb203e5bf_icon-pause.svg');
+    background-image: url('https://uploads-ssl.webflow.com/604abc1e7754c6d48f4250c1/60609e1f59cb0e27f0f32018_fjorr_pause.svg');
     background-size: 15px 15px !important;
     background-position: center;
     background-repeat: no-repeat;
@@ -372,7 +372,7 @@
   }
 
   .jw-svg-icon-volume-0 {
-    background-image: url('https://uploads-ssl.webflow.com/5d3929077546595ce9073469/5fb7502d667ad02ca5a0bc98_jawoks_volume_off.svg');
+    background-image: url('https://uploads-ssl.webflow.com/604abc1e7754c6d48f4250c1/60609e1f9c5aa557ab568e53_fjorr_volume_off.svg');
     background-size: 20px 20px !important;
     background-position: center;
     background-repeat: no-repeat;
@@ -383,7 +383,7 @@
   }
 
   .jw-svg-icon-volume-100, .jw-svg-icon-volume-50 {
-    background-image: url('https://uploads-ssl.webflow.com/5d3929077546595ce9073469/5fb748f89e7caa54bdf843ee_jawoks_volume_on.svg');
+    background-image: url('https://uploads-ssl.webflow.com/604abc1e7754c6d48f4250c1/60609e1f116d47b30681a96b_fjorr_volume_on.svg');
     background-size: 20px 20px !important;
     background-position: center;
     background-repeat: no-repeat;
@@ -396,7 +396,7 @@
 
 
   .jw-svg-icon-fullscreen-on {
-    background-image: url('https://uploads-ssl.webflow.com/5d3929077546595ce9073469/5fb748f709f6f80834a503f8_jawoks_fullscreen.svg');
+    background-image: url('https://uploads-ssl.webflow.com/604abc1e7754c6d48f4250c1/60609e1f0c9dffcc40c24137_fjorr_fullscreen.svg');
     background-size: 20px 20px !important;
     background-position: center;
     background-repeat: no-repeat;
@@ -407,7 +407,7 @@
   }
 
   .jw-svg-icon-fullscreen-off {
-    background-image: url('https://uploads-ssl.webflow.com/5d3929077546595ce9073469/5fb8503a558fb63412677dbb_jawoks_fullscreen_no.svg');
+    background-image: url('https://uploads-ssl.webflow.com/604abc1e7754c6d48f4250c1/60609e1fabaa9560b81c5a33_fjorr_fullscreen_no.svg');
     background-size: 20px 20px !important;
     background-position: center;
     background-repeat: no-repeat;
@@ -440,7 +440,7 @@
   }
 
   .jw-svg-icon-cc-off {
-    background-image: url('https://uploads-ssl.webflow.com/5d3929077546595ce9073469/5fb748f7f7f1229b7ee853a2_jawoks_cc_off.svg');
+    background-image: url('https://uploads-ssl.webflow.com/604abc1e7754c6d48f4250c1/60609d4634d3b8337cbf3072_fjorr_cc_off.svg');
     background-size: 20px 20px !important;
     background-position: center;
     background-repeat: no-repeat;
@@ -452,7 +452,7 @@
 
   .jw-svg-icon-cc-on {
     filter: invert(1);
-    background-image: url('https://uploads-ssl.webflow.com/5d3929077546595ce9073469/5fb748f7f7f1229b7ee853a2_jawoks_cc_off.svg');
+    background-image: url('https://uploads-ssl.webflow.com/604abc1e7754c6d48f4250c1/60609d4634d3b8337cbf3072_fjorr_cc_off.svg');
     background-size: 20px 20px !important;
     background-position: center;
     background-repeat: no-repeat;
@@ -463,7 +463,7 @@
 	}
 
   .jw-svg-icon-replay {
-        background-image: url('https://uploads-ssl.webflow.com/5d3929077546595ce9073469/5fb883d4ff41de9155868ede_jawoks_play.svg');
+        background-image: url('https://uploads-ssl.webflow.com/604abc1e7754c6d48f4250c1/60609e1fe1af7a28965a48da_fjorr_play.svg');
     background-size: 30px 30px !important;
     background-position: center;
     background-repeat: no-repeat;
