@@ -142,7 +142,8 @@
   }
 
   .jw-slider-horizontal {
-    max-width: 90%;
+    padding: 0px 30px !important;
+    /*max-width: 90%;*/
   }
 
 
