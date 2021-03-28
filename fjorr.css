@@ -141,9 +141,9 @@
     padding: 0 !important;
   }
 
-  /*.jw-slider-horizontal {
-    max-width: 80%;
-  }*/
+  .jw-slider-horizontal {
+    max-width: 90%;
+  }
 
 
 
