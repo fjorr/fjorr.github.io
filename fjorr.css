@@ -213,7 +213,7 @@
 
 /*controls size and color of buttons*/
   .jw-button-container .jw-icon {
-    background-color: red;
+    background-color: rgba(17,17,17,0.8);
     width: 40px !important;
     height: 40px !important;
     border-radius: 20px;
