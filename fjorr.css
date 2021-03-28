@@ -137,8 +137,10 @@
 /*controls slider location*/
   .jw-slider-time {
     height: 20px !important;
-    margin-bottom: 80px !important;
+    margin-bottom: 30px !important;
     padding: 0 !important;
+	  justify-content: left !important;
+	  align-items: left !important;
   }
 
   .jw-slider-horizontal {
