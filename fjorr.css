@@ -150,8 +150,7 @@
 
   .jw-breakpoint-2 .jw-slider-horizontal,
   .jw-breakpoint-1 .jw-slider-horizontal {
-    padding: 0px 30px !important;
-    /*max-width: 95%;*/
+    max-width: 95%;
   }
 
 
