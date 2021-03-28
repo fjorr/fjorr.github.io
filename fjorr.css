@@ -109,7 +109,7 @@
   }
 
  .jw-controlbar {
-    flex-direction: column !important;
+    flex-direction: row !important;
     margin-bottom: 30px !important;
   }
 
