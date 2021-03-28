@@ -111,6 +111,8 @@
  .jw-controlbar {
     flex-direction: row !important;
     margin-bottom: 20px !important;
+    justify-content: center;
+	 align-items: center;
   }
 
 
